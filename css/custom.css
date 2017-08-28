@@ -1,0 +1,29 @@
+.full-width-image {
+  height: 350px;
+  background: url("mini.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+#dm{
+	height: 200px;
+	width: 200px;
+}
+
+.pdaff{
+	text-align: right;
+}
+
+hr{
+	border-color: #ff3d3d;
+	border-width: 3px;
+	width: 50%;
+	position: relative;
+}
+
+h2, h4{
+	font-family: 'Pacifico', cursive;
+}
+
+h1 {
+	font-family: 'Zilla Slab Highlight', cursive;
+}
